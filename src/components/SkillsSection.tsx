@@ -5,13 +5,13 @@ const SkillsSection = () => {
     {
       title: 'Programming Languages',
       icon: Code,
-      skills: ['C/C++', 'Python'],
+      skills: ['C/C++', 'Python', 'Java'],
       color: 'text-primary'
     },
     {
       title: 'Web Development',
       icon: Globe,
-      skills: ['React', 'Node.js', 'Express.js'],
+      skills: ['React.js', 'Node.js', 'Express.js'],
       color: 'text-accent'
     },
     {
